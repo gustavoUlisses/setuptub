@@ -67,7 +67,7 @@ header .logo{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-bottom: 50px;
+    margin-bottom: 1px;
     margin-top: 180px;
 }
 
@@ -106,7 +106,7 @@ header .logo{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    margin-top: 200px;
+    margin-top: 190px;
     margin-bottom: 50px;
 }
 
@@ -207,8 +207,9 @@ footer p{
 
     .section-3 p{
         font-size: 14px;
-    }
-
-    
+    }  
 }
 
+p {
+    text-align: center;
+}
